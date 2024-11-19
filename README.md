@@ -15,7 +15,7 @@
 <p align="center">
     <a href="https://github.com/MoisesC04/github-readme-stats">
 	    <img alt="MoisesC04's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MoisesC04&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="200px"/></a>
-	    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+	    <img alt="MoisesC04" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoisesC04&show_icons=true&theme=dark&locale=en&layout=compact" /></p>
 
 <br/>
 
