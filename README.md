@@ -12,7 +12,7 @@
   💡 &nbsp;I’m currently learning <code>Data Science</code>.
 </p>
 
-<br><br>
+<br>
 
 <!-- Stats -->
 <p align="center">
