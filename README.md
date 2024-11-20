@@ -7,12 +7,12 @@
 
 <br>
 
-<p align="left" style="margin-top: 20px;">
+<p align="left" style="margin-top: 25px;">
   🎓 &nbsp;I'm currently studying Geological Engineering at the National University of Colombia.<br>
   💡 &nbsp;I’m currently learning <code>Data Science</code>.
 </p>
 
-<br><br><br>
+<br><br>
 
 <!-- Stats -->
 <p align="center">
