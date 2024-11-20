@@ -8,8 +8,8 @@
 <br>
 
 <p align="left" style="margin-top: 20px;">
-  🎓 &nbsp;I'm currently studying Geological Engineering at the National University of Colombia.
-  💡 &nbsp;I’m currently learning `Data Science`.
+  🎓 &nbsp;I'm currently studying Geological Engineering at the National University of Colombia.<br>
+  💡 &nbsp;I’m currently learning <code>Data Science</code>.
 </p>
 
 <br><br><br>
