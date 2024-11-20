@@ -1,14 +1,21 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 👋 Hi there 
+</p>
+ <hr>
+  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Moisés Carvajal</h1>
+  <h3 align="center">Geological Engineer | Data Analysis</h3>
+</p>
 
+<h1 align="center">Hi 👋, I'm Moisés Carvajal</h1>
 
 <!--stats-->
 <p align="center">
-    <a href="https://github.com/MoisesC04/github-readme-stats">
-	    <img alt="MoisesC04's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MoisesC04&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="200px"/></a>
-<br/>
+<a href="https://github.com/MoisesC04">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MoisesC04&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MoisesC04&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 <!-- Connect with me -->
