@@ -5,23 +5,27 @@
    <h3 align="center">Geological Engineer | Data Analysis</h3>
 </div>
 
+<br>
+
 <p align="left" style="margin-top: 20px;">
   🎓 &nbsp;I'm currently studying Geological Engineering at the National University of Colombia.
+  💡 &nbsp;I’m currently learning `Data Science`.
 </p>
 
-<br><br><br><br>
+<br><br><br>
+
 <!-- Stats -->
 <p align="center">
   <a href="https://github.com/MoisesC04">
     <!-- GitHub Stats -->
     <img 
-      height="150em" 
+      height="140em" 
       src="https://github-readme-stats-eight-theta.vercel.app/api?username=MoisesC04&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" 
       alt="GitHub Stats"
     />
     <!-- Most Used Languages -->
     <img 
-      height="150em" 
+      height="140em" 
       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MoisesC04&layout=compact&langs_count=8&theme=algolia" 
       alt="Top Languages"
     />
