@@ -1,13 +1,15 @@
+<!-- Introduction -->
+<div align="center">
+  <hr>
+   <h1 style="margin-bottom: 10px;">Hi 👋, I'm Moisés Carvajal</h1>
+   <h3 align="center">Geological Engineer | Data Analysis</h3>
+</div>
+
+<p align="left" style="margin-top: 20px;">
+  🎓 &nbsp;I'm currently studying Geological Engineering at the National University of Colombia.
 </p>
- <hr>
-  <h1 align="center" style="margin-bottom: 10px;">Hi 👋, I'm Moisés Carvajal</h1>
-  <h3 align="center">Geological Engineer | Data Analysis</h3>
-</p>
-<br><br><br>
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
 
-
-
+<br><br><br><br>
 <!-- Stats -->
 <p align="center">
   <a href="https://github.com/MoisesC04">
