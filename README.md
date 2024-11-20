@@ -6,7 +6,7 @@
   <h1 align="center">Hi 👋, I'm Moisés Carvajal</h1>
   <h3 align="center">Geological Engineer | Data Analysis</h3>
 </p>
-
+<br><br><br>
 
 <!--stats-->
 <p align="center">
