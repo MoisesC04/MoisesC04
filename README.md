@@ -3,6 +3,14 @@
 
 # 👋 Hi there 
 
+
+<!--stats-->
+<p align="center">
+    <a href="https://github.com/MoisesC04/github-readme-stats">
+	    <img alt="MoisesC04's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MoisesC04&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="200px"/></a>
+<br/>
+
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -10,16 +18,6 @@
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
-
-<!--stats-->
-<p align="center">
-    <a href="https://github.com/MoisesC04/github-readme-stats">
-	    <img alt="MoisesC04's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MoisesC04&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="200px"/></a>
-	    <img alt="MoisesC04" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoisesC04&show_icons=true&theme=dark&locale=en&layout=compact" /></p>
-
-<br/>
-
-
 
 <!--icons and links-->
 <p align="center">
@@ -30,9 +28,5 @@
 
 
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+
 </div>
