@@ -3,11 +3,10 @@
 
 </p>
  <hr>
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Moisés Carvajal</h1>
+  <h1 align="center">Hi 👋, I'm Moisés Carvajal</h1>
   <h3 align="center">Geological Engineer | Data Analysis</h3>
 </p>
 
-<h1 align="center">Hi 👋, I'm Moisés Carvajal</h1>
 
 <!--stats-->
 <p align="center">
