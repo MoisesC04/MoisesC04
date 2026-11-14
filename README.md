@@ -1,9 +1,10 @@
 <!-- Introduction -->
 
-<h1 align="center">Hi 👋, I'm Moisés Carvajal</h1>
-<h5 align="center">Engineer Freelance | Data Analysis</h5>
+<h1 align="center">Hi, I'm Moisés Carvajal 👋</h1>
 
-<p align="center"><strong>Análisis de datos</strong></p>
+<p align="center">
+  <strong>Freelance Engineer · Data Analysis · Science Enthusiast</strong>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moises04/">
