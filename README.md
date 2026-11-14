@@ -1,15 +1,15 @@
 <!-- Introduction -->
 
 <h1 align="center">Hi 👋, I'm Moisés Carvajal</h1>
-<h5 align="center">Geological Engineer | Msc Big Data Analytics Student</h5>
+<h5 align="center">Engineer Freelance | Data Analysis</h5>
 
 <p align="center"><strong>Análisis de datos</strong></p>
 
-<div align="center">
-  <hr>
-   <h1 style="margin-bottom: 10px;">Hi 👋, I'm Moisés Carvajal</h1>
-   <h3 align="center">Geological Engineer | Ms Big Data Analytics Student</h3>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/moises04/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn">
+  </a>
+</p>
 
 <br>
 
