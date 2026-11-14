@@ -1,13 +1,14 @@
 <!-- Introduction -->
 
-<h1 align="center">Hola, soy Moisés Carvajal 👋</h1>
+<h1 align="center">Hi 👋, I'm Moisés Carvajal</h1>
+<h5 align="center">Geological Engineer | Msc Big Data Analytics Student</h5>
 
 <p align="center"><strong>Análisis de datos</strong></p>
 
 <div align="center">
   <hr>
    <h1 style="margin-bottom: 10px;">Hi 👋, I'm Moisés Carvajal</h1>
-   <h3 align="center">Geological Engineer | Msc Big Data Analytics Student</h3>
+   <h3 align="center">Geological Engineer | Ms Big Data Analytics Student</h3>
 </div>
 
 <br>
