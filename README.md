@@ -12,16 +12,13 @@
   </a>
 </p>
 
-<br>
+## 👤 About me
 
-<p align="left" style="margin-top: 25px;">
-  🎓 &nbsp;Degree in Geological Engineering from the National University of Colombia.<br>
-  📊 &nbsp;Experience processing and analyzing geophysical, geotechnical, and geospatial data using Python.<br>
-  🎓 &nbsp;MSc student in Big Data Analytics at Universidad Europea.<br>
-  💡 &nbsp;Currently improving skills in <code>Data Science</code> and <code>Big Data</code>.
-</p>
+I'm a geological engineer with an **MSc in Big Data Analytics** (awaiting graduation). I enjoy using data science to test ideas and make sense of measurements. I’m especially interested in applying it to questions in the geosciences and engineering.
 
-<br>
+- 📍 Medellín, Colombia
+- 💬 English (B2)
+- 🔍 Open to opportunities in **data analytics and data science**
 
 <!------------------------------------------------------------------------------------------------------------------->
 <!-- Stats -->
