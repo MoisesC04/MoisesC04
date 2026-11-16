@@ -54,3 +54,13 @@ I'm a geological engineer with an **MSc in Big Data Analytics** (awaiting gradua
 - Electrical resistivity tomography (ERT) inversion
 - Geotechnical data analysis
 - Geospatial analysis with ArcGIS Pro and QGIS
+
+---
+
+<div align="center">
+
+### *“The greatest value of a picture is when it forces us to notice what we never expected to see.”*
+
+*John W. Tukey, Statistician and Professor at Princeton University*
+
+</div>
