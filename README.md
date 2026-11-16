@@ -22,44 +22,35 @@ I'm a geological engineer with an **MSc in Big Data Analytics** (awaiting gradua
 
 <!------------------------------------------------------------------------------------------------------------------->
 <!-- Stats -->
-<h2 align="center">🛠️ Technical Stack</h2>
 
-  <b>Programming & Data</b><br>
-  Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn<br>
+## 🛠️ Technical Skills
 
-  <b>Data & Big Data</b><br>
-  SQL · Data Cleaning · EDA · Statistics · Big Data Fundamentals<br>
+### Programming & Libraries
 
-  <b>Geosciences</b><br>
-  Geophysics · Geotechnical Data · Geospatial Analysis · GIS
-</p>
-<br>
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-217346?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 
-<!------------------------------------------------------------------------------------------------------------------->
-<!-- Connect with me -->
-<div id="user-content-toc" align="center">
-  <h2 style="display: inline-block;">Connect With Me 🤝</h2>
-</div>
+### Visualization & Data Analysis
 
-<!-- Icons and Links -->
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="http://www.linkedin.com/in/moises04/" target="_blank">
-    <img 
-      src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" 
-      alt="LinkedIn" 
-      height="50" 
-      width="50" 
-    />
-  </a>
-  
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/mcarvajala_/" target="_blank">
-    <img 
-      src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" 
-      alt="Instagram" 
-      height="50" 
-      width="50" 
-    />
-  </a>
-</p>
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4D77CF?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+### Big Data & Databases
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square)
+
+### Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+
+### Applied Geosciences
+
+- Electrical resistivity tomography (ERT) inversion
+- Geotechnical data analysis
+- Geospatial analysis with ArcGIS Pro and QGIS
