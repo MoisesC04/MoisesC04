@@ -42,7 +42,7 @@ I'm a geological engineer with an **MSc in Big Data Analytics** (awaiting gradua
 
 ### Big Data & Databases
 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square)
 
 ### Cloud & Infrastructure
