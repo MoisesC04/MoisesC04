@@ -14,7 +14,7 @@
 
 ## 👤 About me
 
-I'm a geological engineer with an **MSc in Big Data Analytics** (awaiting graduation). I enjoy using data science to test ideas and make sense of measurements. I’m especially interested in applying it to questions in the geosciences and engineering.
+I'm a geological engineer with an **MSc in Big Data Analytics**. I enjoy using data science to test ideas and make sense of measurements. I’m especially interested in applying it to questions in the geosciences and engineering.
 
 - 📍 Medellín, Colombia
 - 💬 English (B2)
